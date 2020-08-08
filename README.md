@@ -1,2 +1,3 @@
-Calculator UI in SwiftUI with Neumorphic designs 
-<img src="https://github.com/AbhishekPMukundan/Calculator/blob/master/Calculator/Calculator.png" width="100" height="100"/>
+Calculator UI in SwiftUI with Neumorphic designs
+<br>
+<img src="https://github.com/AbhishekPMukundan/Calculator/blob/master/Calculator/Calculator.png" width="200" height="500"/>
