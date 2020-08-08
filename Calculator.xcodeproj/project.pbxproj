@@ -13,6 +13,7 @@
 		463368C424DECF7C00FF5713 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 463368C324DECF7C00FF5713 /* Assets.xcassets */; };
 		463368C724DECF7C00FF5713 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 463368C624DECF7C00FF5713 /* Preview Assets.xcassets */; };
 		463368CA24DECF7C00FF5713 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 463368C824DECF7C00FF5713 /* LaunchScreen.storyboard */; };
+		463368D224DF0B2A00FF5713 /* Calculator.png in Resources */ = {isa = PBXBuildFile; fileRef = 463368D124DF0B2A00FF5713 /* Calculator.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		463368C624DECF7C00FF5713 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		463368C924DECF7C00FF5713 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		463368CB24DECF7C00FF5713 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		463368D124DF0B2A00FF5713 /* Calculator.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Calculator.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		463368BC24DECF7B00FF5713 /* Calculator */ = {
 			isa = PBXGroup;
 			children = (
+				463368D124DF0B2A00FF5713 /* Calculator.png */,
 				463368BD24DECF7B00FF5713 /* AppDelegate.swift */,
 				463368BF24DECF7B00FF5713 /* SceneDelegate.swift */,
 				463368C124DECF7B00FF5713 /* ContentView.swift */,
@@ -136,6 +139,7 @@
 				463368CA24DECF7C00FF5713 /* LaunchScreen.storyboard in Resources */,
 				463368C724DECF7C00FF5713 /* Preview Assets.xcassets in Resources */,
 				463368C424DECF7C00FF5713 /* Assets.xcassets in Resources */,
+				463368D224DF0B2A00FF5713 /* Calculator.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
